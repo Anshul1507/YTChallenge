@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">YT Challenge</string>
+
+    <!-- For Main Activity -->
+    <string name="text_main_title">Learn  Code  Online</string>
+    <string name="text_main_subtitle">Start Learning Today</string>
+    <string name="login_button">Login</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="socialLink">Social Links:</string>
+
+    <!-- For Login Activity -->
+    <string name="text_welcome">Welcome!</string>
+    <string name="login_subtitle">Hope you enjoy the learning</string>
+    <string name="login_text">Log In</string>
+    <string name="edittext_username">Username/E-mail</string>
+    <string name="edittext_password">Password</string>
+    <string name="text_appeal_signup">Sign up for an account?</string>
+
+    <!-- For SignUp Activity -->
+    <string name="title_signup">Join the community</string>
+    <string name="subtitle_signup">Master the skills to read and write code</string>
+    <string name="signup_text">Sign Up</string>
+    <string name="edittext_confirm_password">Confirm Password</string>
+    <string name="text_signup_options"> Sign up with :</string>
+</resources>
